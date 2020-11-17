@@ -61,6 +61,13 @@ background:rgb(224, 4, 224);
     padding-left: 10px;
     background:rgb(10, 141, 207);
 }
+
+
+
+
+
+
+
 #Parte6 {
     
     margin: 1%;
@@ -83,6 +90,32 @@ background:rgb(224, 4, 224);
 
 }
 
+#Video1 {
+
+margin: 1%;
+float: right;
+border-color:rgb(224, 4, 224);
+border-style: solid;
+border-width: 5px;
+
+
+
+}
+
+
+
+#Video2 {
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+
+    background:rgb(228, 7, 7);
+
+
+
+
+
 }
 #Parte8 {
    
@@ -97,16 +130,16 @@ clear: top;
 margin:letf: 9px;
 
 
-clear: right;
+clear:none;
 }
 #Parte11{
-margin:right:9%;
+margin:9%;
 
 }
 
 
 #Class{
-    
+height: 10px;
 margin: 2%;
 padding-top: 10px;
 padding-right: 10px;
