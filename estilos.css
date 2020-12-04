@@ -71,11 +71,12 @@ background:rgb(224, 4, 224);
 #Parte6 {
     
     margin: 1%;
+    margin-top: 2%;
     float: right;
 
     border-color:rgb(224, 4, 224);
     border-style: solid;
-    border-width: 5px;
+    border-width: 2px;
     
 
 }
@@ -156,5 +157,16 @@ clear: both;
     border-style: solid;
     border-width: 5px;
 
+
+}
+#fb-comments {
+
+
+
+
+    background:rgb(255, 255, 255);
+    border-color:rgb(248, 0, 248);
+    border-style: solid;
+    border-width: 5px;
 
 }
